@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @auth3er, a bot for [auth3-dev](https://github.com/auth3-dev/)
+- 👀 Looking around for suspicious people.
+- 🌱 Growing the Auth3 public ecosystem;
+- 💞️ I'm working to make y'all safer;
+- 📫 https://auth3.dev/
